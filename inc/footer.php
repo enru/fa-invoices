@@ -8,7 +8,7 @@
             <img alt="" border="0" src="https://www.paypalobjects.com/en_GB/i/scr/pixel.gif" width="1" height="1">
             </form>
             <?php endif; ?>
-            <p>If you'd like to fund further development or would like additional features added please <a href="mailto:n@enru.co.uk">get in touch</a></p>
+            <p>If you'd like to fund further development or would like additional features added please <a href="mailto:n@enru.co.uk?subject=FreeAgent Invoice Downloader">get in touch</a></p>
       </div>
     </section>
     <footer id="sitemeta">
