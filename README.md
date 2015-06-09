@@ -1,6 +1,7 @@
 Go to https://dev.freeagent.com/ and register an app.
 
 $ export FREEAGENT_APP_ID='YOUR FREEAGENT APP ID'
+
 $ export FREEAGENT_APP_SECRET='YOUR FREEAGENT APP SECRET'
 
 $ php -S localhost:8000
