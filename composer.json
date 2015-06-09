@@ -1,0 +1,15 @@
+{
+    "config": {
+        "vendor-dir": "lib"
+    },
+    "repositories": [
+        {
+            "url": "https://github.com/thoughtco/Freeagent-PHP.git",
+            "type": "git"
+        }
+    ],
+    "require": {
+        "thoughtco/Freeagent-PHP": "dev-master"
+    }
+}
+
