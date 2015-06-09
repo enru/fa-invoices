@@ -1,4 +1,4 @@
-<?
+<?php
 
 /*
 ---
@@ -44,7 +44,12 @@ An example of how to use the PHP kit
       $company_url = sprintf('https://%s.freeagent.com', $company->company->subdomain);
       if($sandbox) $company_url = sprintf('https://%s.sandbox.freeagent.com', $company->company->subdomain); 
 
-	    echo '<p>here are your invoices:</p>';
+
+    ?>
+    <?php include 'inc/header.php'; ?>
+    <?php
+
+	    echo '<p>Here are your invoices:</p>';
 	    
       $page=1;
       while(true) {
@@ -70,3 +75,4 @@ An example of how to use the PHP kit
 	}
 	    
 ?>
+<?php include 'inc/footer.php'; ?>
