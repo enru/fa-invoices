@@ -4,7 +4,7 @@
     },
     "repositories": [
         {
-            "url": "https://github.com/thoughtco/Freeagent-PHP.git",
+            "url": "https://github.com/enru/Freeagent-PHP.git",
             "type": "git"
         }
     ],

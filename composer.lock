@@ -1,0 +1,35 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
+    ],
+    "hash": "1edccb0fb28a975cb4b286aefce6e468",
+    "packages": [
+        {
+            "name": "thoughtco/Freeagent-PHP",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/enru/Freeagent-PHP.git",
+                "reference": "df0720352e54527f34739b54ba59123f2175650e"
+            },
+            "require": {
+                "php": ">=5.3.0"
+            },
+            "type": "library",
+            "description": "PHP wrapper for the Freeagent API",
+            "time": "2015-06-09 20:02:42"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": {
+        "thoughtco/freeagent-php": 20
+    },
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}

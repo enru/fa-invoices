@@ -10,7 +10,7 @@ An example of how to use the PHP kit
 	ini_set('display_errors', 'on');
 
 	// include class
-	include('./lib/Freeagent-PHP/Freeagent.php');
+	include('./lib/thoughtco/Freeagent-PHP/Freeagent.php');
 	
   $this_url = 'http' . (isset($_SERVER['HTTPS']) ? 's' : '') . '://' . "{$_SERVER['HTTP_HOST']}/invoices.php";
 	// enter your app's config details here
