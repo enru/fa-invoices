@@ -1,0 +1,3 @@
+[submodule]
+  path=lib/Freeagent-PHP
+  url = git@github.com:thoughtco/Freeagent-PHP.git
