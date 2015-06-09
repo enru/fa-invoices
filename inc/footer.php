@@ -1,3 +1,4 @@
+            <hr/>
             <?php if($paypal_button_id = getenv('PAYPAL_BUTTON_ID')): ?>
             <p>If you've found this service useful please consider buying me a beer :)</p>
             <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
