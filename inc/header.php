@@ -72,6 +72,7 @@
         background:    -webkit-linear-gradient(#c00, #c00);
         background:    linear-gradient(#c00, #c00);
         border-radius: 5px;
+        border: none;
         color:         #fff !important;
         font:          normal 700 18px/1 "Roboto", sans-serif;
         text-align:    center;
@@ -81,6 +82,8 @@
         width: auto;
      }
      .redbutton:hover { text-decoration: none; }
+
+    #adv { margin: 10px 0; }
 
 </style>
 </head>
