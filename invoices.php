@@ -107,4 +107,5 @@ if(isset($_GET['view'])) {
 	}
 	    
 ?>
+<a href="#" class="downloadAll">download all</a>
 <?php include 'inc/footer.php'; ?>
